@@ -15,8 +15,7 @@
 #header {
     background-image: url("https://cdn.discordapp.com/attachments/709494396671885312/961274061894332526/quin_rose.webp");
     height: 100vh;
-    min-height: 380px;
-    min-width: 380px;
+    width: 100%;
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,7 +62,7 @@
     background-color: rgba(35, 32, 32,0);
     bottom: 0;
     position: absolute;
-    min-width: 1240px;
+    width: 100%;
 }
 .down-button {
     transform: rotate(45deg);
@@ -82,18 +81,18 @@
     position: relative;
     text-align: center;
     align-items: center;
-    font-size: 150%;
     margin: 0 5vw 10vh;
+    font-size: 1.5em;
 }
 .content-title {
-    font-size: 5em;
+    font-size: 3em;
     padding: 5vh;
     margin: auto;
     max-width: 100vh;
     font-weight: bold;
 }
 .content-subtitle {
-    font-size: 2.5em;
+    font-size: 2em;
     padding: 2vh;
     margin: auto;
     max-width: 100vh;
