@@ -76,6 +76,14 @@
     bottom: 4vh;
     background: rgba(0, 0, 0, 0);
 }
+.credits {
+    font-size: 1em;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    text-decoration: none;
+    margin: 0 5px;
+}
 /* Content */
 #content {
     position: relative;
