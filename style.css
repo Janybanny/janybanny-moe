@@ -81,8 +81,7 @@
     text-align: center;
     align-items: center;
     font-size: 150%;
-    margin-bottom: 10vh;
-    margin: 0 5vw;
+    margin: 0 5vw 10vh;
 }
 .content-title {
     font-size: 5em;
