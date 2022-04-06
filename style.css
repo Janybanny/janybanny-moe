@@ -63,6 +63,8 @@
     background-color: rgba(35, 32, 32,0);
     bottom: 0;
     position: absolute;
+    min-height: 380px;
+    min-width: 380px;
 }
 .down-button {
     transform: rotate(45deg);
